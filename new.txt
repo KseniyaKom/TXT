@@ -1,0 +1,5 @@
+first name: Kseniya
+last name: Komarova
+age: 32
+pets: 0
+desired salary: 1500
