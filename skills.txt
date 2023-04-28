@@ -1,0 +1,17 @@
+1: Postman
+2: Git
+3: Devtools
+4: Charles
+5: SQL
+6: Client-server architecture
+7: HTTP methods of requests/response
+8: VPN
+9: Mobile testing
+10: Peculiarities of iOS and Android
+11: Build iOS apps on XCode
+12: Build Android apps on Android Studio
+13: Fiddler
+14: Linux terminal
+15: DB Postgres
+16: Non-relational DB Redis
+17: JMeter
